@@ -2,12 +2,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/tubaaktas?style=social)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=tubaaktas.visitor-badge)](https://GitHub.com/tubaaktas/StrapDown.js/stargazers/)
 
-<h1 align="center">Hey 👋, nice to see you 😎</h1>
+<h1 align="center">Hey 👋, nice to see you in my Github 🍀</h1>
 <h2 align="center">I'm Tugba Aktas ✌</h2>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A software developer from Turkey</h3>
 
-## 🤙 Connect with me!
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/char.tugbaaktas)
+## 📌 Connect with me!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugbaaktas/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chartugba@gmail.com)
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->

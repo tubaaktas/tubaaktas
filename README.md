@@ -1,8 +1,5 @@
-[![GitHub followers](https://img.shields.io/github/followers/tubaaktas?style=social)](https://github.com/tubaaktas?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/tubaaktas?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=tubaaktas.visitor-badge)](https://GitHub.com/tubaaktas/StrapDown.js/stargazers/)
-<h1 align="center">Hey 👋, nice to see you in my Github 🍀</h1>
-<h2 align="center">I'm Tugba Aktas ✌</h2>
+<h1 align="center">Hey, nice to see you in my Github 🍀</h1>
+<h2 align="center">I'm Tugba Aktas </h2>
 <h3 align="center">A software developer from Turkey</h3>
 
 ## 📌 Connect with me!
